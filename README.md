@@ -1,0 +1,2 @@
+# ilkadim
+GitHub Baslangıç deposu
